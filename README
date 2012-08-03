@@ -1,0 +1,11 @@
+#Files
+
+in Projects/August the files will be there to test.
+intersection.txt : 
+	The bmp files are present in Lum,Sec and Fut.
+
+single.txt :
+	the _2 bmp files are here. choosing it with the assumption that 2nd pose was acquired with a good quality.
+
+dataset.txt :
+	the files that are to be used for testing in august.
